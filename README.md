@@ -6,5 +6,9 @@ and other instruments
   - its seems that the ICOS station is 85 minutes ahead of time. 
   - we are assuming that meteo summit is right aligned as informed by Fernando Velarde
   - RH, WS and T seem to be ok. 
+  - ![img.png](./nbs/imgs/WS.png)
+  - ![img.png](./nbs/imgs/RH.png)
+  - ![img.png](./nbs/imgs/T.png)
+  - ![img.png](./nbs/imgs/P.png)
   
 - Further analysis is neede for other year and can be done following this code
