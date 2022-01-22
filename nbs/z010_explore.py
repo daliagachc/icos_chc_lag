@@ -133,6 +133,7 @@ for V in ['T','RH','P','WS']:
     plot_ts(ax1, dfm, V)
 
     plot_cross_val(V, ax2, res)
+    
 
 # %%
 
