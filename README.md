@@ -11,5 +11,9 @@ and other instruments
   - ![img.png](./nbs/imgs/RH.png)
   - ![img.png](./nbs/imgs/T.png)
   - ![img.png](./nbs/imgs/P.png)
-  
+
+- analysis 2018
+  - [see notebook](./nbs/z020_2018_explore.ipynb)
+  - its seems that the ICOS station is 85 minutes ahead of time.
+
 - Further analysis is neede for other year and can be done following this code
